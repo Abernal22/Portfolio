@@ -1,6 +1,4 @@
-# Build a Modern Portfolio Website with React & TailwindCSS
-
-
+# Portfolio Website with React & TailwindCSS
 
 ## 📋 Table of Contents
 
@@ -11,15 +9,11 @@
 
 ---
 
-## 🚀 Introduction
-
-In this tutorial, you'll learn how to build a modern portfolio website using **React**, **TailwindCSS**, **Vite**, and **Lucide Icons**. From dark mode support to responsive animations and deployable project showcases, this video walks you through every step—perfect for developers looking to level up their frontend skills or apply for jobs.
-
-🎥 Watch the full tutorial: [YouTube](https://youtu.be/YOUR_VIDEO_ID)
+##  Introduction
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 * **React** – Component-based UI development
 * **Vite** – Lightning-fast build tool
@@ -31,7 +25,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ---
 
-## ⚡️ Features
+## Features
 
 * 🌑 **Light/Dark Mode Toggle**
   Save theme preference in local storage with beautiful transitions
@@ -59,7 +53,7 @@ In this tutorial, you'll learn how to build a modern portfolio website using **R
 
 ---
 
-## 👌 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
